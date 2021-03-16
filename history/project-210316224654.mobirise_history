@@ -69,16 +69,13 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "Webgune honek cookiak erabiltzen ditu, nabigazio esperientzia hobea eskaintzeko asmoz. Irakurri gure <a href='https://www.lasartekosaria.buruntzaldeaikt.eus/lege-oharra.html'>Lege Oharra, Baldintza Orokorrak eta Pribatutasun Politika</a>.\n|| Ésta web utiliza cookies para mejorar la experiencia de uso. Lea nuestro  <a href='https://www.lasartekosaria.buruntzaldeaikt.eus/nota-legal.html'>Aviso legal, Condiciones de Uso y Política de Privacidad</a>.",
+      "text": "Webgune honek cookiak erabiltzen ditu, nabigazio esperientzia hobea eskaintzeko asmoz. Irakurri gure <a href='https://www.lasartekosaria.buruntzaldeaikt.eus/lege-oharra.html'>Lege Oharra, Baldintza Orokorrak eta Pribatutasun Politika</a>.\n\nÉsta web utiliza cookies para mejorar la experiencia de uso. Lea nuestro  <a href='https://www.lasartekosaria.buruntzaldeaikt.eus/nota-legal.html'>Aviso legal, Condiciones de Uso y Política de Privacidad</a>.",
       "textButton": "Ados | De acuerdo"
     },
     "site_lang": "undefined",
     "witsec-mailform": false,
     "witsec-white-label": false,
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HBV4WMRFQV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HBV4WMRFQV');\n</script>\n",
-    "mbrsiteDomain": "5pce9auwyr",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HBV4WMRFQV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HBV4WMRFQV');\n</script>\n"
   },
   "pages": {
     "index.html": {
