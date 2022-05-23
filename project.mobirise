@@ -76,7 +76,7 @@
     "witsec-mailform": false,
     "witsec-white-label": true,
     "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HBV4WMRFQV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HBV4WMRFQV');\n</script>\n",
-    "mbrsiteDomain": "juj2lkfbbs"
+    "mbrsiteDomain": "cujpl9fyia"
   },
   "pages": {
     "index.html": {
@@ -87,7 +87,7 @@
         "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '2387426601323219');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=2387426601323219&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/arteko%20xxxi%20saria,%20kartela.svg"
+        "meta_image": "@PROJECT_PATH@/assets/images/lasarteko-saria-logoa-2022-800x800.png"
       },
       "components": [
         {
