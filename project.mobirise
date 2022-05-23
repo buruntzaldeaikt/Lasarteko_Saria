@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lasarteko Saria",
-    "currentPage": "index.html",
+    "currentPage": "esp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1893,7 +1893,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": 1,
-        "meta_image": "@PROJECT_PATH@/assets/images/xxxi-lasarte-saria-kartela.svg"
+        "meta_image": "@PROJECT_PATH@/assets/images/lasarteko-saria-logoa-2022-800x800.png"
       },
       "components": [
         {
