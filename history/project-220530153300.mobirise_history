@@ -543,6 +543,39 @@
           "_params": {}
         },
         {
+          "_params": {
+            "modalName": "Crowdfunding",
+            "modalSize": "large",
+            "modalHeader": true,
+            "modalTitle": "Crowdfunding",
+            "modalBody": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://www.apontoque.com/widget.php?q=aWRtPTImY3JldG89NDg0MQ==\" width=\"305\">No iframes supported</iframe>",
+            "modalBodyHTML": true,
+            "modalFooter": false,
+            "modalCloseBtn": true,
+            "modalCloseText": "Close",
+            "modalLink": false,
+            "modalLinkUrl": "https://mobirise.com/",
+            "modalLinkText": "Visit Mobirise",
+            "modalLinkNewWindow": true,
+            "modalVerticalCenter": true,
+            "modalFade": true,
+            "modalAutoOpen": true,
+            "modalAutoOpenOnce": false,
+            "modalAutoOpenGDPR": true,
+            "modalAutoOpenDelay": "2"
+          },
+          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Crowdfunding\" data-bs-toggle=\"modal\" data-bs-target=\"#Crowdfunding\">Preview Crowdfunding</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Crowdfunding-howtouse\" data-bs-toggle=\"modal\" data-bs-target=\"#Crowdfunding-howtouse\">How to use Crowdfunding</a>\n</div>\n<div class=\"modal fade\" id=\"Crowdfunding-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Crowdfunding-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"Crowdfunding-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('Crowdfunding')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
+          "modalBody": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://www.apontoque.com/widget.php?q=aWRtPTImY3JldG89NDg0MQ==\" width=\"305\">No iframes supported</iframe>",
+          "alias": "witsec-modal-window",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-modal-window-block",
+          "_sourceTheme": "mobirise4",
+          "_anchor": "witsec-modal-window-block-3s",
+          "modalWindow": "<div class=\"modal fade\" id=\"Crowdfunding\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"CrowdfundingLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog modal-lg modal-dialog-centered\" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"CrowdfundingLabel\">Crowdfunding</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"Crowdfunding_body\"><iframe allowtransparency=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://www.apontoque.com/widget.php?q=aWRtPTImY3JldG89NDg0MQ==\" width=\"305\">No iframes supported</iframe></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#Crowdfunding\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#Crowdfunding_body\" ).html(); \n      $( \"#Crowdfunding_body\" ).empty(); \n      $( \"#Crowdfunding_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#Crowdfunding\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
+        },
+        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
