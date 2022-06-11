@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lasarteko Saria",
-    "currentPage": "index.html",
+    "currentPage": "esp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -76,7 +76,9 @@
     "witsec-mailform": false,
     "witsec-white-label": true,
     "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HBV4WMRFQV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HBV4WMRFQV');\n</script>\n",
-    "mbrsiteDomain": "cujpl9fyia"
+    "mbrsiteDomain": "cujpl9fyia",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1316,11 +1318,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#2e2e2e\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>400 lau estiloak proba</b>&nbsp;- Kategoria guztiek elkarrekin egingo dute eta <i><b>eraketa mistoan</b></i>. Seriea izen emate markaren bidez eratuko da.</li>\n                    <li><b>Emakumezkoen 100 tximeleta proba</b> - Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</li><li><span style=\"font-size: 1.2rem;\"><b>Emakumezkoen 100 bizkar proba</b>- Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</span></li><li><b>400 librea proba</b> - Kategoria guztiek elkarrekin egingo dute eta <b><i>eraketa mistoan</i></b>. Seriea izen emate markaren bidez eratuko da.</li><li><span style=\"font-size: 1.2rem;\"><b>Gizonezkoen 100 bizkar proba</b>- Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</span></li><li><span style=\"font-size: 1.2rem;\"><b>Gizonezkoen 100 libre proba</b>- Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</span></li><li><span style=\"font-size: 1.2rem;\"><b>Emakumezkoen 100 libre proba</b>- Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</span></li><li><span style=\"font-size: 1.2rem;\"><b>Gizonezkoen 200 Lau Estiloak</b>- Kategoriak elkartuta osatuko da seriea. Seriea izen emate markaren bidez eratuko da.</span></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "t8qIxhDpCJ",
-          "_anchor": "egokitzapenak",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "egokitzapenak"
         },
         {
           "alias": false,
